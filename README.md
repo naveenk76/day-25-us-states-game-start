@@ -1,0 +1,1 @@
+State_to_learn is only visible when you enter "exit" command on input box of guess state that way it will show you how many sates have you missed ,And it will not show you the states that you have already guessed 
